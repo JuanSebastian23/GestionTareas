@@ -1,0 +1,22 @@
+feat: Nueva característica
+fix: Corrección de errores
+docs: Cambios en documentación
+style: Cambios de formato/estilo
+refactor: Refactorización de código
+test: Añadir/modificar pruebas
+chore: Tareas de mantenimiento
+
+
+# Para nuevas funcionalidades
+git commit -m "feat: implementa sistema de login de usuarios
+
+- Añade formulario de login
+
+# Para correcciones
+git commit -m "fix: corrige error en conexión a base de datos"
+
+# Para documentación
+git commit -m "docs: actualiza README con instrucciones de instalación"
+
+# Para refactorización
+git commit -m "refactor: reorganiza estructura MVC del proyecto"
